@@ -1,11 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');
+
 #center {
     text-align: center;
+}
+
+.header {
+    text-align: center;
+    color: white;
+    font-size: 25px;
+}
+
+.url_text {
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    text-decoration: none; 
 }
 
 body {
     margin: auto;
     width: 640px; 
     padding: 50px;
-    font-family: 'Courier New', monospace; 
+    font-family: 'Poppins', sans-serif;
     color: #ffffff;    
 }
